@@ -1,0 +1,19 @@
+# Unreal Engine 5 必須除外ファイル
+Source/hakotest/Binaries/
+Source/hakotest/Build/
+Source/hakotest/DerivedDataCache/
+Source/hakotest/Intermediate/
+Source/hakotest/Saved/
+Source/hakotest/.vs/
+*.sln
+*.log
+*.tmp
+
+# 一時ファイル & キャッシュ
+*.bak
+*.swp
+
+
+# Visual Studio Code
+Source/hakotest/.vscode/
+
